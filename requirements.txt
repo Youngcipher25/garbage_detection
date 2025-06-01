@@ -1,0 +1,9 @@
+Flask
+tensorflow
+numpy
+Pillow
+requests 
+scikit-learn
+matplotlib
+seaborn
+huggingface_hub
